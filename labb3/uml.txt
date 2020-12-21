@@ -1,0 +1,11 @@
+@startuml
+actor "Студент" as owner
+boundary "Приложение" as app
+entity "Данные" as data
+owner -> app : Запрос
+app -> data : Конфигурация работы станка
+data -> app : Ответ
+
+
+app -> owner : Конфигурация выбрана
+@enduml

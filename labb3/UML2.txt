@@ -1,0 +1,26 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+
+class ControlInfo as "Информационный поток"
+
+class person as "Конфигурация ЧПУ"
+class name as "Режим работы ЧПУ"
+class course as "Наличие всех расходников"
+class theme as "Данные о количестве копий"
+
+class Data as "База Данных"
+
+ControlInfo <|-- Data 
+Data <|-- person
+person *-- name
+person *-- course
+person *-- theme
+
+hide members
+hide circle
+hide methods
+@enduml
