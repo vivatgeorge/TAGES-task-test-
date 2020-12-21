@@ -1,4 +1,4 @@
-#  [ИДБ-17-05](https://github.com/stankin/design-part-1/wiki/list-idb-17-05) Айтжанов Алишер
+#  [ИДБ-17-06](https://github.com/stankin/design-part-1/wiki/list-idb-17-06) Никитин Георгий
 
 ## Домашние задания по [семинару 1](https://github.com/stankin/design-part-1/wiki/sem1#Ма..) и [семинару 2](https://github.com/stankin/design-part-1/wiki/sem2#Ма..)
 
