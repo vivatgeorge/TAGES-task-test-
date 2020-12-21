@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Студент" as Студент {
+ Блокнот
+Книга Писать (История, До конца года)
+}
+hide circle
+@enduml
