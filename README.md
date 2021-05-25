@@ -128,10 +128,10 @@
 
 ### 5. Описание структуры объекта [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате ERD (Class) [✋](https://github.com/stankin/design-part-2/wiki/LR-5)
 
-* **Описываемый объект:** <программа, модуль, сообщение, база данных...>
+* **Описываемый объект:** telegram bot.
 
 * **Диаграмма UML Class:**
-![p5](http://www.plantuml.com/plantuml/proxy?idx=0&src=https://raw.githubusercontent.com/<user/user.github.io/master/<path><file>)
+![p5](http://www.plantuml.com/plantuml/png/RL51JiCm4Bpx5LRl_G67le4V1CSe4N5SsUwD0pHK2FLGYJDINu2KIeqKKcg-iFiZrd63Uq0vR7PdPcUqNbYN6RTI5RCFPRtCJAQuqhKMXT5AScTMaeagivRVwahopF8PV8278pPmWdx6BkYzDYgYdp3W4xHmfg_57SSNy3JuXdPsuIvDMRias4E7hqHT_oEuNg-TAABY7RTm22HEaWuy770JCa5FAWzV70O2FFnGfOXfHQx5vEdXX0tvTiJieUFu37xSz1P7k9k4oNTFiJmHoGJNmVqOMlfjoEgCMzmaPmz3YC_6izqypkVnHAc_EWFHGasqqJBD_hApKPFcaSTOKUQIAwdkfB6n4QKHbPm0L-ZSieMiSthfNm00)
 
 ### 6. Описание алгоритма [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Sequence) [✋](https://github.com/stankin/design-part-2/wiki/LR-6)
 
