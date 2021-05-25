@@ -69,11 +69,11 @@
 Диаграмма UML Use Case
 ![p4](http://www.plantuml.com/plantuml/png/ZP11JlCm48NtFeNbVHT_smFqAbRgdqOaCNASFKaN4GA1E07Y1Y5gr53KdE7DZR1hXP05WaIQqSoyJyypcznAOuiqOVbrdDr88rEUwan7EwDJnQqf54lKVykjvYQ-sbc-ZOsARAmpncHajU42BnZmGGyukjoYeGgThyMNu1a3LUAxdcgdQWHpNv6hIEQA-_2FozmBw1O3UXpHkdn0JnN76GsLL5r6xpZHNipGPK33M_PKeq7dC2enkF-Dxj3XZ1xT75i5x9LgxqBtQFy8hYU_0qxEyt7qf9AU16C_dOKl5c5NTec-30VwbLYoiEX4X3JELsmwxTIRQzOppTZRg6nRfCad)
 
-**4.1 Идентификатор прецедента:** ???
+**4.1 Идентификатор прецедента:** А33
 
-**4.2 Название прецедента:** ???
+**4.2 Название прецедента:** Отправка сообщения пользователям Telegram
 
-**4.3 Контекст:** ???
+**4.3 Контекст:** А3
 
 **4.4 Участники (actors) и цели (goals):**
 
