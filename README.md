@@ -34,7 +34,7 @@
 
 * A2 (декомпозиция процесса/процессов внутренней среды)
 
-![A2]https://github.com/vivatgeorge/nikitin/blob/main/04_A2.jpg)
+![A2](https://github.com/vivatgeorge/nikitin/blob/main/04_A2.jpg)
 
 * A3 (декомпозиция процесса/процессов внутренней среды)
 
