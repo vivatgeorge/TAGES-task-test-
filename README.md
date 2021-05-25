@@ -25,7 +25,7 @@
 
 * A-0 (контекстная диаграмма)
 
-![A-0](nikitin/01_A-0.jpg
+![A-0](https://github.com/vivatgeorge/nikitin/blob/main/01_A-0.jpg
 )
 
 * A0 (диаграмма верхнего уровня)
