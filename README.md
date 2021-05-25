@@ -60,7 +60,7 @@
 
 ![A32](https://github.com/vivatgeorge/nikitin/blob/main/06_A32.jpg)
 
-* A33 Автоматизация процесса А32
+* A33 Автоматизация процесса А33
 
 ![A33](https://github.com/vivatgeorge/nikitin/blob/main/07_A33.jpg)
 
