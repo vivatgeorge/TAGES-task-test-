@@ -67,7 +67,7 @@
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
 Диаграмма UML Use Case
-![p4]http://www.plantuml.com/plantuml/png/ZP11JlCm48NtFeNbVHT_smFqAbRgdqOaCNASFKaN4GA1E07Y1Y5gr53KdE7DZR1hXP05WaIQqSoyJyypcznAOuiqOVbrdDr88rEUwan7EwDJnQqf54lKVykjvYQ-sbc-ZOsARAmpncHajU42BnZmGGyukjoYeGgThyMNu1a3LUAxdcgdQWHpNv6hIEQA-_2FozmBw1O3UXpHkdn0JnN76GsLL5r6xpZHNipGPK33M_PKeq7dC2enkF-Dxj3XZ1xT75i5x9LgxqBtQFy8hYU_0qxEyt7qf9AU16C_dOKl5c5NTec-30VwbLYoiEX4X3JELsmwxTIRQzOppTZRg6nRfCad)
+![p4](http://www.plantuml.com/plantuml/png/ZP11JlCm48NtFeNbVHT_smFqAbRgdqOaCNASFKaN4GA1E07Y1Y5gr53KdE7DZR1hXP05WaIQqSoyJyypcznAOuiqOVbrdDr88rEUwan7EwDJnQqf54lKVykjvYQ-sbc-ZOsARAmpncHajU42BnZmGGyukjoYeGgThyMNu1a3LUAxdcgdQWHpNv6hIEQA-_2FozmBw1O3UXpHkdn0JnN76GsLL5r6xpZHNipGPK33M_PKeq7dC2enkF-Dxj3XZ1xT75i5x9LgxqBtQFy8hYU_0qxEyt7qf9AU16C_dOKl5c5NTec-30VwbLYoiEX4X3JELsmwxTIRQzOppTZRg6nRfCad)
 
 **4.1 Идентификатор прецедента:** ???
 
