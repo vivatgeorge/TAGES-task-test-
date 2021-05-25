@@ -46,7 +46,7 @@
 
 
 
-...
+
 
 ### 3. Функциональное моделирование программных и информационных средств (DFD) [✋](https://github.com/stankin/design-part-2/wiki/LR-2)
 
@@ -56,13 +56,13 @@
 
 **Допустимые виды хранилищ и их размещение:** Почтовый сервер, сервер Amazon AWS, запоминающее устройство ПК.
 
-* A31 Автоматизация процесса А31
-
-![A31](myrep\a31.jpg)
-
 * A32 Автоматизация процесса А32
 
-![A32](myrep\a32.jpg)
+![A32](https://github.com/vivatgeorge/nikitin/blob/main/06_A32.jpg)
+
+* A33 Автоматизация процесса А32
+
+![A33](https://github.com/vivatgeorge/nikitin/blob/main/07_A33.jpg)
 
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
