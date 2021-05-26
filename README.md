@@ -146,7 +146,7 @@
 * **Описываемый объект:** Струкрутра программных средств системы
 
 * **Диаграмма UML Component:**
-![p7](http://www.plantuml.com/plantuml/uml/LL31IWCn5BpdAnuzwQ7_q9P5N6YXK6_Y8TIWnKrIikczBQ873tw21tzWBQoqQFSRtliZ9v4UUXdclPdC91dKKOUuifMgdnPkgOEsPBtpyyVWhQ4OLaQfkRTBxuoBTCiVtCchRBdZdRpnWMJ3hQnvb_2ET4t5wDmFSSy_y7zpoqVmbcvCPHxGbFtbxCp_AHlPuap7XyGGt10gK-4NriqfHju9MKTvXhZcNsxa1VC-HrvF2gKkBgbtAgBXjEmbPPpNvMGupUFLeiBpYX7r_sa2S5ofd54VxZ4mfGsCkySd_G40)
+![p7](http://www.plantuml.com/plantuml/png/LL31IWCn5BpdAnuzwQ7_q9P5N6YXK6_Y8TIWnKrIikczBQ873tw21tzWBQoqQFSRtliZ9v4UUXdclPdC91dKKOUuifMgdnPkgOEsPBtpyyVWhQ4OLaQfkRTBxuoBTCiVtCchRBdZdRpnWMJ3hQnvb_2ET4t5wDmFSSy_y7zpoqVmbcvCPHxGbFtbxCp_AHlPuap7XyGGt10gK-4NriqfHju9MKTvXhZcNsxa1VC-HrvF2gKkBgbtAgBXjEmbPPpNvMGupUFLeiBpYX7r_sa2S5ofd54VxZ4mfGsCkySd_G40)
 
 ### 8. Демонстрация реализации (личная страница)
 
