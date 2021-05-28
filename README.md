@@ -198,7 +198,7 @@
 
 Выявление процессов, нуждающихся в повышении качества.
 
-(https://github.com/vivatgeorge/nikitin/blob/main/1k.jpg)
+![1](https://github.com/vivatgeorge/nikitin/blob/main/1k.jpg)
 
 Способ получения: извлечение из диаграмм IDEF0 и DFD.
 
