@@ -198,6 +198,8 @@
 
 Выявление процессов, нуждающихся в повышении качества.
 
+(https://github.com/vivatgeorge/nikitin/blob/main/1k.jpg)
+
 Способ получения: извлечение из диаграмм IDEF0 и DFD.
 
 **10.2 Определение числовых показателей для цели потенциального проекта автоматизации: [✋](https://github.com/stankin/design-part-2/wiki/interpret_process)**
