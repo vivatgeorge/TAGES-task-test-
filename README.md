@@ -223,7 +223,7 @@
 
 Расчет трудозатрат на разработку «с нуля» методом COCOMO II:
 
-![4](https://github.com/vivatgeorge/nikitin/blob/main/4k.jpg)
+![4](https://github.com/vivatgeorge/nikitin/blob/main/5.jpg)
 
 **10.5 План-факт сравнение для затрат на реализацию: [💻](https://docs.google.com/spreadsheets/d/11KghKnPycU-EtbHJ3dKK5FQjPntsd9ZQ9LVSzg9Ou5E/edit#gid=1983994942)**
 
