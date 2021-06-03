@@ -224,7 +224,7 @@ https://vivatgeorge.github.io/vivatgeorge/#!/topics/1
 
 **10.5 План-факт сравнение для затрат на реализацию: [💻](https://docs.google.com/spreadsheets/d/11KghKnPycU-EtbHJ3dKK5FQjPntsd9ZQ9LVSzg9Ou5E/edit#gid=1983994942)**
 
-![4](https://github.com/vivatgeorge/nikitin/blob/main/V5.jpg)
+![4](https://github.com/vivatgeorge/nikitin/blob/main/V6.jpg)
 
 **Из расчета:**
 
