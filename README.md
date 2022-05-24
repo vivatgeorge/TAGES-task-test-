@@ -135,7 +135,7 @@
 
 * **Диаграмма UML Sequence:**
 * 
-![p6](https://github.com/vivatgeorge/TAGES-task-test-/blob/main/umlseq.jpg)
+![p6](https://github.com/vivatgeorge/TAGES-task-test-/blob/main/umlseq1.jpg)
 
 ### 7. Описание состава [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Component) [✋](https://github.com/stankin/design-part-2/wiki/LR-7)
 
