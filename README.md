@@ -25,12 +25,12 @@
 
 * A-0 (контекстная диаграмма)
 
-![A-0](https://github.com/vivatgeorge/nikitin/blob/main/01_A-0.jpg
+![A-0](https://github.com/vivatgeorge/TAGES-task-test-/blob/main/a0test.jpg)
 )
 
 * A0 (диаграмма верхнего уровня)
 
-![A0](https://github.com/vivatgeorge/nikitin/blob/main/02_A0.jpg)
+![A0](https://github.com/vivatgeorge/TAGES-task-test-/blob/main/a0main.jpg)
 
 * A2 (декомпозиция процесса/процессов внутренней среды)
 
