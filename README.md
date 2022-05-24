@@ -58,7 +58,7 @@
 
 * A33 Автоматизация процесса А33
 
-![A33](https://github.com/vivatgeorge/TAGES-task-test-/blob/main/a3.jpg)
+![A33](https://github.com/vivatgeorge/TAGES-task-test-/blob/main/dfd.jpg)
 
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
