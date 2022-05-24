@@ -34,15 +34,15 @@
 
 * A2 (декомпозиция процесса/процессов внутренней среды)
 
-![A2](https://github.com/vivatgeorge/nikitin/blob/main/04_A2.jpg)
+![A2](https://github.com/vivatgeorge/TAGES-task-test-/blob/main/a2.jpg)
 
 * A3 (декомпозиция процесса/процессов внутренней среды)
 
-![A3](https://github.com/vivatgeorge/nikitin/blob/main/05_A3.jpg)
+![A3](https://github.com/vivatgeorge/TAGES-task-test-/blob/main/a3.jpg)
 
 * A4 (декомпозиция процесса/процессов внутренней среды)
 
-![A4](https://github.com/vivatgeorge/nikitin/blob/main/08_A4.jpg)
+![A4](https://github.com/vivatgeorge/TAGES-task-test-/blob/main/a4.jpg)
 
 
 
@@ -56,13 +56,9 @@
 
 **Допустимые виды хранилищ и их размещение:** Почтовый сервер, сервер Amazon AWS, запоминающее устройство ПК.
 
-* A32 Автоматизация процесса А32
-
-![A32](https://github.com/vivatgeorge/nikitin/blob/main/06_A32.jpg)
-
 * A33 Автоматизация процесса А33
 
-![A33](https://github.com/vivatgeorge/nikitin/blob/main/07_A33.jpg)
+![A33](https://github.com/vivatgeorge/TAGES-task-test-/blob/main/a3.jpg)
 
 ### 4. Описание выбранного процесса [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате прецедента (Use Case) [✋](https://github.com/stankin/design-part-2/wiki/LR-4)
 
