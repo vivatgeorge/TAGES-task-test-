@@ -123,7 +123,7 @@
 
 ### 5. Описание структуры объекта [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате ERD (Class) [✋](https://github.com/stankin/design-part-2/wiki/LR-5)
 
-* **Описываемый объект:** telegram bot.
+* **Описываемый объект:** модуль в приложении.
 
 * **Диаграмма UML Class:**
 
