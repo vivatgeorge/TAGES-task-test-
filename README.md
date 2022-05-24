@@ -135,7 +135,7 @@
 
 * **Диаграмма UML Sequence:**
 * 
-![p6](http://www.plantuml.com/plantuml/png/ZPDV2jD04CRVznH3tti14UaXlC2sMJJO92NP2hwrLIbIKPI2FbcyGQoj_LEplSBCZVm68qbJ4I4aB3lVRxxvTZCelCtzD1cRubcSJcnk4qgoD1izpRF4aS-dpXWxybbElE705tdB1totNCg2zxecMz2qSBc1siUZU69JJpt-p9LMo4nUeUuaSthinku96lHKKRmel4jCPBqTsi91y87Nn5SEieHEEmJ-pe5ahX0izLsgbgAXCTgn_wZ6q0FYJrpoLLwY_AoQeyorFV-KbVgFdrll_ZIjHP17mqOwum2JN759QeDtVCPuxsG9IiL7tXF8whBXmGW8DpQ-Gdc0jgmrzoZTaFSAknaPFiTPDZ54UBhKDI3VmDpofN5JQKgoajSwRz0AULFldi3GXEXXlqNv8WkjqXpvntzoN1ePXNNZ1ki-do2Btmdf3EsK_nfo-1UY0M041V2ckHgouXE1jmDl3ruNfI4Q4xdMGL7hr7KO03_gp7ewXDQ7xgM1kdDj1iW2Vyel)
+![p6](https://github.com/vivatgeorge/TAGES-task-test-/blob/main/umlseq.jpg)
 
 ### 7. Описание состава [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Component) [✋](https://github.com/stankin/design-part-2/wiki/LR-7)
 
