@@ -137,19 +137,13 @@
 * 
 ![p6](https://github.com/vivatgeorge/TAGES-task-test-/blob/main/umlseq1.jpg)
 
-### 7. Описание состава [✋](https://github.com/stankin/design-part-2/wiki/LR-3) в формате UML (Component) [✋](https://github.com/stankin/design-part-2/wiki/LR-7)
-
-* **Описываемый объект:** Струкрутра программных средств системы
-
-* **Диаграмма UML Component:**
-![p7](http://www.plantuml.com/plantuml/png/LL31IWCn5BpdAnuzwQ7_q9P5N6YXK6_Y8TIWnKrIikczBQ873tw21tzWBQoqQFSRtliZ9v4UUXdclPdC91dKKOUuifMgdnPkgOEsPBtpyyVWhQ4OLaQfkRTBxuoBTCiVtCchRBdZdRpnWMJ3hQnvb_2ET4t5wDmFSSy_y7zpoqVmbcvCPHxGbFtbxCp_AHlPuap7XyGGt10gK-4NriqfHju9MKTvXhZcNsxa1VC-HrvF2gKkBgbtAgBXjEmbPPpNvMGupUFLeiBpYX7r_sa2S5ofd54VxZ4mfGsCkySd_G40)
 
 
-### 8. Подготовка к интерпретации построенных моделей
+### 7. Подготовка к интерпретации построенных моделей
 
-**8.1 Используемые паттерны проектирования и разработки [✋](https://github.com/stankin/design-part-2/wiki/sem2):**
+**7.1 Используемые паттерны проектирования и разработки [✋](https://github.com/stankin/design-part-2/wiki/sem2):**
 
-**8.1.1 Процессная модель для сравнения:** Задача: Необходимость запрашивать инн с помощью Nalog.ru Способ решения: при помощи методологии PDCA:
+**7.1.1 Процессная модель для сравнения:** Задача: Необходимость запрашивать инн с помощью Nalog.ru Способ решения: при помощи методологии PDCA:
 1. Этап Plan (планирование)
 Выявление проблемы:
 * Процесс авторизации пользователя в Nalog.ru и запрос Инн является затратным по времени.
@@ -170,12 +164,12 @@
 
 
 
-**8.2 Используемые паттерны выявления проблем [✋](https://github.com/stankin/design-part-2/wiki/sem3):**
+**7.2 Используемые паттерны выявления проблем [✋](https://github.com/stankin/design-part-2/wiki/sem3):**
 * Муда: трата времени на пересылку информации вручную
 * Мура: неправильно сформированный формат содержания сообщений
 * Мури: единовременное использование функций приложения многими пользователями, более 10000 тыч человек.
 
-**8.3 Возможные антипаттерны [✋](https://github.com/stankin/design-part-2/wiki/sem4):**
+**7.3 Возможные антипаттерны [✋](https://github.com/stankin/design-part-2/wiki/sem4):**
 
 | Категория  | Антипаттерн (риск) | Действие по избежанию |
 |---|---|---|
@@ -184,7 +178,7 @@
 | Организация | Аналитический паралич. Неоправданно большие затраты на анализ и проектирование. | проанализировать приоритеты |
 | Среда | Чрезмерное усложнение | стараться упростить систему |
 
-### 9. Интерпретация построенных моделей [✋](https://github.com/stankin/design-part-2/wiki/cp-guide)
+### 8. Интерпретация построенных моделей [✋](https://github.com/stankin/design-part-2/wiki/cp-guide)
 
 
 
